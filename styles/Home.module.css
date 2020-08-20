@@ -7,6 +7,19 @@
   align-items: center;
 }
 
+.customButton {
+  font-weight: bold;
+  text-transform: uppercase;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 14px;
+  padding: 9px 20px;
+  background: #0070f4;
+  color: #fff;
+  border: 2px solid #0070f4;
+  outline: 0;
+}
+
 .main {
   padding: 5rem 0;
   flex: 1;
